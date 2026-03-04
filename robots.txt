@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tamparestorationco.com/sitemap.xml
